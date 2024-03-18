@@ -1,0 +1,7 @@
+# Assign values to variables
+name = "Ashley"
+age = "22"
+location = "Nairobi"
+
+# Print personalized message
+print(f"Hello {name}, you are {age} years old and live in {location}.")
